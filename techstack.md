@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/django-docker is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Django](https://www.djangoproject.com/) – Frameworks (Full Stack)
 - [Gunicorn](http://gunicorn.org/) – Web Servers
@@ -11,11 +12,13 @@ mollypi/django-docker is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/django-docker is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/994/4aGjtNQv.png' alt='Django'/> [Django](https://www.djangoproject.com/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1091/gunicorn.png' alt='Gunicorn'/> [Gunicorn](http://gunicorn.org/) – Web Servers
@@ -25,14 +28,15 @@ mollypi/django-docker is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/django-docker](https://github.com/mollypi/django-docker)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|11/15/23 <br/>Report generated|
+|12<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -140,11 +144,11 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[django-environ](https://pypi.org/django-environ)|v0.9.0|11/07/22|Molly Depew |MIT|N/A|
-|[pytest-django](https://pypi.org/pytest-django)|v4.5.0|11/07/22|Molly Depew |BSD-3-Clause|N/A|
-|[requests](https://pypi.org/requests)|v2.27.1|11/07/22|Molly Depew |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
+|[django-environ](https://pypi.org/project/django-environ)|v0.9.0|11/07/22|Molly Depew |MIT|N/A|
+|[pytest-django](https://pypi.org/project/pytest-django)|v4.5.0|11/07/22|Molly Depew |BSD-3-Clause|N/A|
+|[requests](https://pypi.org/project/requests)|v2.27.1|11/07/22|Molly Depew |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
